@@ -12,4 +12,4 @@ Game where i worked as the Lead(and only) Programmer
 Program which renders a 3D model with the Vulkan API
 
 ## Miscellaneous
-(https://github.com/Count-X/Portfolio/blob/main/skelly%20boat.png "Skelly Boat")
+![Hello](https://github.com/Count-X/Portfolio/blob/main/skelly%20boat.png "Skelly Boat")
