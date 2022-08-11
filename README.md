@@ -8,7 +8,6 @@ Discord: Mr.Freeman #6431
 
 ## Games
 
-
 <dl>
 <dt>Reptile Revenge</dt>
 <dd>A test for defenition list</dd>
@@ -18,8 +17,12 @@ Discord: Mr.Freeman #6431
 
 
 ## Programs and Algorithms
-### Vulkan Program
-Program which renders a 3D model with the Vulkan API
+
+<dl>
+<dt>Vulkan Program</dt>
+<dd>A Program that renders an 3D object with Vulkan</dd>
+</dl>
+
 
 ## Miscellaneous
 
