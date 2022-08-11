@@ -32,8 +32,7 @@ Discord: Mr.Freeman #6431
 
 ![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/Materials/eye.gif "EYE!")
 
-    <html>
-      <head>
-      Good day
-      </head>
-    </html>
+    Hi
+    hi
+    Weed
+    Wedding
