@@ -4,9 +4,9 @@ This is my portfolio where you will find my works from games to Miscellaneous pi
 
 
 ### Contacts
-***
-
+___
 Discord: Mr.Freeman #6431
+
 
 ## Games
 
