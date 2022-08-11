@@ -26,11 +26,5 @@ Discord: Mr.Freeman #6431
 
 ## Miscellaneous
 
-
-> Hello
-> World
-> 
->> :)
+``Hello``
 >>> Hello
->>>> Hello
->>>>> HEHE
