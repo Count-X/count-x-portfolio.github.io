@@ -3,7 +3,9 @@
 This is my portfolio where you will find my works from games to Miscellaneous pieces of media and technology
 
 
-## Contacts
+### Contacts
+***
+
 Discord: Mr.Freeman #6431
 
 ## Games
@@ -25,6 +27,3 @@ Discord: Mr.Freeman #6431
 
 
 ## Miscellaneous
-
-``Hello``
->>> Hello
