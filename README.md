@@ -21,7 +21,7 @@ Discord: Mr.Freeman #6431
     
     
 <dt>Boat Game</dt>
-<dd>A Game where you drive a boat, i was the programmer</dd>
+<dd>A Game where you drive a boat and try to kill the enemy on land, i was the programmer</dd>
     
 [Itch.io](https://stadingames.itch.io/vene)
     
