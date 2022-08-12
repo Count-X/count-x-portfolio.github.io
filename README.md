@@ -17,7 +17,7 @@ Discord: Mr.Freeman #6431
 [Itch.io](https://stadingames.itch.io/reptile-revenge)
     
     
-![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/skelly%20boat.png "Bötski")
+![A Gif of an eye](https://img.itch.zone/aW1nLzYxMTQwNTcucG5n/315x250%23c/WWpHPs.png "Bötski")
     
     
 <dt>Boat Game</dt>
