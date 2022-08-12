@@ -14,7 +14,7 @@ Discord: Mr.Freeman #6431
 <dt>Reptile Revenge</dt>
 <dd>Game where i was the programmer</dd>
     
-![Itch.io](https://stadingames.itch.io/reptile-revenge)
+[Itch.io](https://stadingames.itch.io/reptile-revenge)
     
     
 ![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/skelly%20boat.png "Bötski")
