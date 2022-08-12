@@ -13,10 +13,10 @@ Discord: Mr.Freeman #6431
 <dl>
 <dt>Reptile Revenge</dt>
 <dd>Game where i was the programmer</dd>
-![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/Skellyboat.png "EYE!")
+![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/skelly boat.png "EYE!")
 <dt>Boat Game</dt>
 <dd>A Game where you drive a boat, i was the programmer</dd>
-![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/Skellyboat.png "EYE!")
+![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/skelly boat.png "EYE!")
 </dl>
 
 
