@@ -41,8 +41,6 @@ Discord: Mr.Freeman #6431
 
 ## Miscellaneous
 
-#### Here is an eye
-
     Hi
     hi
     Weed
