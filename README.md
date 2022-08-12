@@ -12,9 +12,11 @@ Discord: Mr.Freeman #6431
 
 <dl>
 <dt>Reptile Revenge</dt>
-<dd>A test for defenition list</dd>
+<dd>Game where i was the programmer</dd>
+![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/Skellyboat.png "EYE!")
 <dt>Boat Game</dt>
-<dd>A Game where you drive a boat</dd>
+<dd>A Game where you drive a boat, i was the programmer</dd>
+![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/Skellyboat.png "EYE!")
 </dl>
 
 
@@ -29,8 +31,6 @@ Discord: Mr.Freeman #6431
 ## Miscellaneous
 
 #### Here is an eye
-
-![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/Materials/eye.gif "EYE!")
 
     Hi
     hi
