@@ -32,11 +32,3 @@ This is my portfolio where you will find my works from games to Miscellaneous pi
 <dt>Vulkan Program</dt>
 <dd>A Program that renders an 3D object with Vulkan</dd>
 </dl>
-
-
-## Miscellaneous
-
-    Hi
-    hi
-    Weed
-    Wedding
