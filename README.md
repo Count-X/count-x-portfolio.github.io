@@ -20,7 +20,7 @@ This is my Portfolio & GitHub where you will find my works from Games to Miscell
     
 [Itch.io](https://count-x.itch.io/6-feet-under)
     
-![A Gif of an eye]([https://github.com/Count-X/Portfolio/blob/main/skelly%20boat.png](https://img.itch.zone/aW1nLzEwNDQyMzc3LmpwZw==/315x250%23c/nK60D3.jpg) "Skelly")
+![A Gif of an eye](https://img.itch.zone/aW1nLzEwNDQyMzc3LmpwZw==/315x250%23c/nK60D3.jpg "Skelly")
     
     
 </dl>
