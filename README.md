@@ -1,6 +1,6 @@
 # Portfolio
 
-This is my portfolio where you will find my works from games to Miscellaneous pieces of media and technology
+This is my Portfolio & GitHub where you will find my works from Games to Miscellaneous pieces of media and technology
 
 
 ## Games
@@ -15,10 +15,10 @@ This is my portfolio where you will find my works from games to Miscellaneous pi
 ![A Gif of an eye](https://img.itch.zone/aW1nLzYxMTQwNTcucG5n/315x250%23c/WWpHPs.png "Bötski")
     
     
-<dt>Boat Game</dt>
-<dd>Game where you drive a boat and try to kill the enemy on land, i was the programmer</dd>
+<dt>6 Feet Under</dt>
+<dd>A Horror Game made in a game jam, I was the Programmer</dd>
     
-[Itch.io](https://stadingames.itch.io/vene)
+[Itch.io](https://count-x.itch.io/6-feet-under)
     
 ![A Gif of an eye](https://github.com/Count-X/Portfolio/blob/main/skelly%20boat.png "Skelly")
     
